@@ -4,5 +4,8 @@ RENCANA KONTEN TARQ
   - INSTALL SSH
   - INSTALL NTP
   - INSTALL OPENSSL
+  - INSTALL DHCP SERVER
 - VIDEO CARA INSTALL ANDROID MARSHMALLOW
 - VIDEO TIPS DAN TRIK
+  - Tetap Produktif Di rumah Aja
+  - Berbicara dengan Percaya Diri di Depan Kamera
