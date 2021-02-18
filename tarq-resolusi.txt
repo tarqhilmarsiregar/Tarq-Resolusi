@@ -3,3 +3,4 @@ My Resolution
 - Learn about Server Administration
 - Learn Ruangguru
 - Learn Duolingo
+- Others
